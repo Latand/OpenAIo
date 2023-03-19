@@ -1,0 +1,5 @@
+backoff~=2.2.1
+aiohttp~=3.8.4
+ujson~=5.7.0
+yarl~=1.8.2
+pydantic~=1.10.6
